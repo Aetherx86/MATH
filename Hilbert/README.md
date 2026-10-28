@@ -45,8 +45,8 @@ $$\langle x, y \rangle = \sum_{i=1}^\infty x_i y_i, \quad \|x\| = \sqrt{\langle 
 Zero third-party dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Hilbert.git
-cd Hilbert
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/Hilbert
 ```
 
 Run test suite:

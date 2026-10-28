@@ -55,8 +55,8 @@ $$\psi(x) = \left( \frac{1}{2\pi \sigma_x^2} \right)^{1/4} \exp\left( -\frac{x^2
 Zero external dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Heisenberg.git
-cd Heisenberg
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/Heisenberg
 ```
 
 Run test suite:

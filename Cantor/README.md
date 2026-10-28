@@ -41,8 +41,8 @@ Starting from $C_0 = [0, 1]$, each stage removes the open middle third of every 
 Zero third-party dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Cantor.git
-cd Cantor
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/Cantor
 ```
 
 Run test suite:

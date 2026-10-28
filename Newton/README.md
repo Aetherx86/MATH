@@ -56,8 +56,8 @@ $$F(r) = \frac{\mu}{SP^2} = \frac{\mu}{r^2}$$
 Zero third-party dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Newton.git
-cd Newton
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/Newton
 ```
 
 Run test suite:

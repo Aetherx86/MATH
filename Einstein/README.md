@@ -42,8 +42,8 @@ For Mercury ($a = 57.9 \times 10^9 \text{ m}, e = 0.2056$), this corresponds to 
 Zero third-party dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Einstein.git
-cd Einstein
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/Einstein
 ```
 
 Run test suite:

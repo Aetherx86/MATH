@@ -80,8 +80,8 @@ As part of the evaluation to determine whether all Veritasium videos can be prog
 ### Installing from Source
 
 ```bash
-git clone https://gitlab.com/jk9576/math-video-engine.git
-cd math-video-engine
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/math-video-engine
 pip install -e .
 ```
 

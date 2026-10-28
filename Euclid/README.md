@@ -69,8 +69,8 @@ Given finite set $P = \{p_1, p_2, \dots, p_k\}$, construct $N = \left(\prod_{i=1
 Zero third-party dependencies required. Compatible with Python 3.9+.
 
 ```bash
-git clone https://gitlab.com/jk9576/Euclid.git
-cd Euclid
+git clone https://gitlab.com/jk9576/MATH.git
+cd MATH/Euclid
 ```
 
 Run test suite:
