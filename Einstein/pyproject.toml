@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "einstein"
+version = "1.0.0"
+description = "Albert Einstein: Special and General Relativity, Geodesic Solver, and Spacetime Curvature"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Jeong Hoon Kim" }
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Topic :: Scientific/Engineering :: Astronomy",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+]
+
+[project.scripts]
+einstein = "einstein.cli:main"
