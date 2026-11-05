@@ -127,3 +127,16 @@ docker-trivy-scan:
         - "Dockerfile"
   script:
     - trivy fs --exit-code 0 --severity CRITICAL,HIGH .
+
+python-tests:
+  stage: test
+  image: python:3.11-slim
+  rules:
+    - exists:
+        - "**/*.py"
+      if: '$CI_COMMIT_BRANCH'
+  before_script:
+    - pip install --upgrade pip pytest numpy pillow
+  script:
+    - pytest
+
